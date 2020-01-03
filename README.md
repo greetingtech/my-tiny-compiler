@@ -1,1 +1,1 @@
-#My Tiny Compiler
+my tiny compiler for learning
